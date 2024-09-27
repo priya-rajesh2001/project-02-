@@ -1,0 +1,225 @@
+*{
+    margin:0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*header-section*/
+.header-main{
+    max-width:1300px;
+    overflow:auto;
+    margin:auto;
+}
+.header-box1{
+    width:20%;
+    float:left;
+}
+.header-box2{
+    width:80%;
+    float:left;
+}
+.logo-inbox{
+    min-height:50px;
+   /* background-color: brown;*/
+    margin:15px;
+    font-size: 30px;
+}
+.link-inbox{
+    min-height:50px;
+   /* background-color:coral;*/
+    margin:15px;
+    text-align: right;
+}
+a.top-link{
+    color: black;
+    text-decoration: none;
+    margin:15px 20px;
+    display:inline-block;
+}
+/*banner-section*/
+.banner{
+   /* background-color: blueviolet;*/
+    background-image:url(background5.jpg) ;
+    background-position: center;
+    background-size: cover;
+    text-shadow:0px 0px 5px white;
+}
+.banner-text{
+  /*  background-color: cornflowerblue;*/
+    text-align: center;
+    padding: 150px 0px;
+}
+.banner-text h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.banner-text p{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 15px;
+}
+/*about-section*/
+section.about{
+    margin-top: 30px;
+}
+.about-main{
+   max-width:1300px;
+    overflow:auto;
+    margin:auto;
+}
+.about-box1,.about-box2{
+    width: 50%;
+    float:left;
+}
+.about-text,.about-image{
+    min-height:300px;
+   /* background-color: rgb(74, 201, 223);*/
+    margin:30px;
+    padding-top:1px;
+}
+.image-about{
+    width:100%
+}
+.about-text h2{
+    margin: 30px 0px 25px;
+}
+.about-text p{
+    margin: 15px 0px;
+}
+.about-image{
+   
+    margin-top: 30px;
+}
+/*services-section*/
+
+section.services{
+    margin-top: 30px;
+}
+.services-main{
+   max-width:1300px;
+    overflow:auto;
+    margin:auto;
+}
+.service-box1,.service-box2,.service-box3{
+    width:33.33%;
+    float:left;
+}
+.service-inbox{
+    min-height: 300px;
+     background-color: aqua; 
+     text-align: center;
+     margin: 15px;
+}
+img.service-image{
+    width:100%;
+    height:300px;
+    
+}
+.service-titl h2{
+    margin:15px 0px;
+    
+}
+.services-title h2{
+    text-align: center;
+    font-size: 35px;
+    margin: 20px 0px;
+}
+/* products-section */
+section.products{
+    margin-top: 30px;
+}
+.product-main{
+   max-width:1300px;
+    overflow:auto;
+    margin:auto;
+}
+.product-box1,.product-box2,.product-box3,.product-box4{
+    width:25%;
+    float:left;
+}
+.product-inbox{
+    min-height: 300px;
+     background-color: aqua; 
+     text-align: center;
+     margin: 15px;
+}
+img.product-image{
+    width:100%;
+    height:300px;
+    
+}
+h2.product-title{
+    text-align: center;
+    font-size:35px;
+    margin:20px 0px;
+}
+.contacts{
+    /* background-color: blueviolet;*/
+     background-image:url(background6.avif) ;
+     background-position: center;
+     background-size: cover;
+     margin-top: 30px;
+ }
+ .contacts-text{
+   /*  background-color: cornflowerblue;*/
+     text-align: center;
+     padding: 150px 0px;
+ }
+  .contact-heading h2{  
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ }
+  .contact-text p{ 
+     font-size: 25px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     margin-top: 15px;
+  }
+  /* media query */
+  @media(max-width:768px){
+     .service-box1,.service-box2{
+        width:50%;
+     }
+     .service-box3{
+        width:100%;
+     }
+     .product-box1,.product-box2,.product-box3,.product-box4{
+        width:50%;
+     }
+     .header-box1{
+        width:100%;
+        text-align: center;
+     } 
+     .header-box2{
+        width:100%;
+     } 
+     .link-inbox{
+        text-align: center;
+     }
+     .about-box1,.about-box2{
+        width:100%;
+     }
+     a.top-link{
+        margin:15px 8px;
+    
+     }
+  }
+  @media(max-width:468px){
+    .service-box1,.service-box2{
+        width:100%;
+     }
+     .product-box1,.product-box2,.product-box3,.product-box4{
+        width:100%;
+     }
+     .header-box1{
+        width:100%;
+        text-align: center;
+     }
+     .link-inbox{
+        width: 100%;
+        text-align: center;
+     }
+     .about-box1,.about-box2{
+        width:100%;
+     }
+     a.top-link{
+        margin:15px 8px;
+    
+     }
+    }

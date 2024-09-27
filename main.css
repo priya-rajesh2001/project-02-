@@ -1,0 +1,344 @@
+
+.out{
+    overflow: hidden;
+}
+/* 1*/
+#po{
+    background-color: black;
+    padding: 10px;
+     /* height: 55px; */
+    }
+    .phone-main{
+        background-color: black;
+    }
+    .te{
+        text-align: center;
+        color: white;
+    }
+/* two */
+#brisket{
+    text-align: center;
+    padding: 100px;
+    background-image: url(Mutton-Fry.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+   
+    color: white;
+    max-width:auto;
+    height: 500px;
+    
+}
+/* .brisket-main{
+    max-width: 1100px;
+    overflow: auto;
+    margin: auto;
+} */
+.see{
+    color: white;
+    background-color: goldenrod;
+}
+.cool{
+    font-size: 5px;
+    padding: 5px;
+    margin-top: 50px;
+    border:1px solid white ;
+    border-radius: 50%;
+}
+/* third */
+#rd{
+    background-color: black;
+    padding: 40px;
+    color: white;
+}
+.mango{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin: auto;
+}
+.lang{
+   background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+    } 
+.cannot{
+   background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+    .vannot{
+        background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+
+/* four */
+#family{
+    text-align: center;
+    padding: 10%;
+    background-image: url(cann.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+    color: white;
+    height: 500px;
+}
+/* .family-main{
+    max-width: 1100px;
+    overflow: auto;
+    margin: auto;
+} */
+.find{
+    color: white;
+    background-color: goldenrod;
+} 
+
+/* five */
+#catering{
+    text-align: center;
+    padding: 100px;
+    background-image: url(catering.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+   
+    color: black;
+    font-size: 20px;
+    height: 500px;
+}
+/* .catering-main{
+    max-width: 1100px;
+    overflow: auto;
+    margin: auto;
+} */
+.view{
+    color: white;
+    background-color: goldenrod;
+    
+}
+.kni{
+    font-size: 5px;
+    padding: 5px;
+    margin-top: 50px;
+    border:1px solid white ;
+    border-radius: 50%;
+}
+.cat{
+    font-size: 20px;
+    color: black;
+}
+/* six */
+#red{
+    padding: 50px;
+    
+}
+.mangoes{
+    background-color: black;
+    height: 1px;
+    width: 50%;
+    margin: auto;
+}
+.vanges{
+background-color: black;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+    } 
+    .cannotes{
+        background-color: black;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+    .vannotes{
+        background-color: black;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+    .langes{
+        background-color: black;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+    }
+
+
+/* seven */
+#river{
+    text-align: center;
+    padding: 10%;
+    background-image: url(tt.webp);
+    background-attachment: fixed;
+    background-size: cover;
+   
+    color: black;
+    font-size: 20px;
+    /* height: 500px; */
+    
+}
+/* .river-main{
+    min-width: 1000px;
+    overflow: auto;
+    margin: auto;
+    height: 200px;
+
+} */
+.shop{
+    color: white;
+    background-color: goldenrod;
+}
+/* eight */
+#loyal{
+    text-align: center;
+    padding: 10%;
+    background-image: url(drinks.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+    color: white;
+    /* height:  500px; */
+}
+/* .loyal-main{
+    max-width: 1100px;
+    overflow: auto;
+    margin: auto;
+} */
+.find{
+    color: white;
+    background-color: goldenrod;
+}
+.look{
+    font-size: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    border:2px solid white ;
+    border-radius: 50%;
+}
+/* nine */
+#john{
+    
+    background-color:darkgoldenrod;
+    padding: 40px;
+    color: white;
+
+}
+.mangot{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin: auto;
+}
+.langt{
+   background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+    } 
+.cannott{
+   background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+    .vannott{
+        background-color: white;
+        height: 1px;
+        width: 50%;
+        margin: auto;
+  
+    }
+
+
+
+   
+/* ten */
+#begin{
+    text-align: center;
+    padding: 10%;
+    background-image: url(chef-2585791_640.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+    
+    color: white;
+}
+
+.learn{
+    color: white;
+    background-color: goldenrod;
+}
+/* 11 */
+#pit{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+/* .inbox8{
+    background-image: url(pngtree.png);
+    padding-left: 50px;
+    height: 300px;
+    max-width: auto;
+    background-repeat: no-repeat;
+    text-align: center;
+   
+   
+} */
+
+
+
+
+/* twelve */
+#smokehouse{
+    background-color:rgb(107, 103, 103);
+    color: white;
+    text-align: center;
+}
+.las{
+    color: goldenrod;
+    margin: 10px;
+}
+
+@media(max-width:468px){
+    
+   .text-white{
+    font-size: 20px;
+   
+   }
+   .cat{
+    font-size: 15px;
+   }
+   .view{
+    font-size: 10px;
+   }
+   .life{
+    font-size: 10px;
+   }
+   .ring{
+    font-size: 30px;
+   }
+}
+@media(max-width:768px){
+   .inner-box6{
+    margin-left: 320px;
+    text-align: center;
+    max-height: 500px;
+    max-width: max-content;
+    font-size: 15px;
+    padding-bottom: 5px;
+   }
+
+   
+}
+
+
+
+
+   
